@@ -1,0 +1,12 @@
+numpy
+pandas
+kaggle
+torch
+evaluate
+datasets
+scikit-learn
+transformers
+fastapi
+pydantic
+groq
+requests
